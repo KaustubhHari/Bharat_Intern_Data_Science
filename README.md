@@ -1,6 +1,6 @@
-# Bharat_Intern_Data_Science
+#Data_Science
 
-TASK 1 - Titanic Classification 
+Project 1 - Titanic Classification 
 
 The Titanic Classification Project is a venture dedicated to employing machine learning and data analysis techniques to forecast passenger survival on the RMS Titanic. The sinking of the Titanic is one of history's most notorious maritime disasters, and this initiative aims to illuminate the determinants of passenger survival. By scrutinizing historical data, we can create a model for predicting whether a given passenger survived or perished. The project encompasses several core components, including data preprocessing, model selection, training, evaluation, and prediction. It makes use of a well-recognized dataset, the "Titanic: Machine Learning from Disaster" dataset available on Kaggle, to carry out these tasks. The dataset offers valuable insights into passengers, encompassing attributes like age, gender, ticket class, and more, alongside a binary indicator of their survival outcome.
 
@@ -32,7 +32,7 @@ The Titanic Classification Project is a venture dedicated to employing machine l
 The Titanic Classification Project is a testament to the power of data analysis and predictive modeling, illustrating how these tools can uncover insights and make predictions from historical data. By delving into the Titanic dataset, we aim to reveal the determinants of passenger survival and construct a predictive model. This endeavor showcases the capacity of data-driven analysis to extract meaningful insights from historical events.
 
 
-TASK 2 - Number Recognition with the MNIST Dataset
+Project 2 - Number Recognition with the MNIST Dataset
 
 In this project, we showcase a Python script that utilizes a deep learning model to recognize handwritten numerals. It leverages the MNIST dataset for training and employs a pre-trained model to make predictions on digit images stored in a specific desktop folder. The code begins by loading and preparing the MNIST dataset, training a neural network model, and subsequently applying this model to predict digits in images stored in the designated directory.
 
